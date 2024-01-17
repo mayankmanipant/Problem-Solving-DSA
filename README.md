@@ -10,8 +10,8 @@ Languages- C++, Python(Jan 2024 onwards)
 
 if(FileName == (starts with a number) or (starts with 'LC')):
 
-     print("question is from LEETCODE")
+     print("problem is from LEETCODE")
 
 else if(FileName == (starts with 'CF'):
 
-     print("question is from CODEFORCES")
+     print("problem is from CODEFORCES")
