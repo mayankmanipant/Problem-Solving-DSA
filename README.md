@@ -15,3 +15,7 @@ if(FileName == (starts with a number) or (starts with 'LC')):
 else if(FileName == (starts with 'CF'):
 
      print("problem is from CODEFORCES")
+
+else if(FileName == (starts with 'GFG'):
+
+     print("problem is from GFG")
